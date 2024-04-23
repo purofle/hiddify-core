@@ -9,7 +9,7 @@ require (
 	github.com/kardianos/service v1.2.2
 	github.com/sagernet/gomobile v0.1.3
 	github.com/sagernet/sing v0.3.8
-	github.com/sagernet/sing-box v1.8.9
+	github.com/sagernet/sing-box v1.8.11
 	github.com/sagernet/sing-dns v0.1.14
 	github.com/spf13/cobra v1.8.0
 	github.com/xmdhs/clash2singbox v0.0.2
@@ -110,3 +110,5 @@ replace github.com/sagernet/sing-quic => github.com/morgenanno/sing-quic v0.1.12
 replace github.com/sagernet/wireguard-go => github.com/hiddify/wireguard-go v0.0.0-20240302132803-629b7c39b487
 
 replace github.com/bepass-org/wireguard-go => github.com/hiddify-com/wireguard-go v0.0.2-alpha.0.20240220074702-29dc5459810f
+
+replace github.com/xmdhs/clash2singbox => github.com/purofle/clash2singbox v0.0.0-20240423183826-f616ab980a02
